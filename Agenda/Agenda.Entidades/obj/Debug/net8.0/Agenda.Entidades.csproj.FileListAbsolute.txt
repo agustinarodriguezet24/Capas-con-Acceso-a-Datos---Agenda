@@ -1,0 +1,11 @@
+C:\Users\agust\OneDrive\Documentos\Contenidos 5to año\Laboratorio de programación\Programacion en Capas, base de datos - Agenda\Agenda\Agenda.Entidades\bin\Debug\net8.0\Agenda.Entidades.deps.json
+C:\Users\agust\OneDrive\Documentos\Contenidos 5to año\Laboratorio de programación\Programacion en Capas, base de datos - Agenda\Agenda\Agenda.Entidades\bin\Debug\net8.0\Agenda.Entidades.dll
+C:\Users\agust\OneDrive\Documentos\Contenidos 5to año\Laboratorio de programación\Programacion en Capas, base de datos - Agenda\Agenda\Agenda.Entidades\bin\Debug\net8.0\Agenda.Entidades.pdb
+C:\Users\agust\OneDrive\Documentos\Contenidos 5to año\Laboratorio de programación\Programacion en Capas, base de datos - Agenda\Agenda\Agenda.Entidades\obj\Debug\net8.0\Agenda.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agust\OneDrive\Documentos\Contenidos 5to año\Laboratorio de programación\Programacion en Capas, base de datos - Agenda\Agenda\Agenda.Entidades\obj\Debug\net8.0\Agenda.Entidades.AssemblyInfoInputs.cache
+C:\Users\agust\OneDrive\Documentos\Contenidos 5to año\Laboratorio de programación\Programacion en Capas, base de datos - Agenda\Agenda\Agenda.Entidades\obj\Debug\net8.0\Agenda.Entidades.AssemblyInfo.cs
+C:\Users\agust\OneDrive\Documentos\Contenidos 5to año\Laboratorio de programación\Programacion en Capas, base de datos - Agenda\Agenda\Agenda.Entidades\obj\Debug\net8.0\Agenda.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\agust\OneDrive\Documentos\Contenidos 5to año\Laboratorio de programación\Programacion en Capas, base de datos - Agenda\Agenda\Agenda.Entidades\obj\Debug\net8.0\Agenda.Entidades.dll
+C:\Users\agust\OneDrive\Documentos\Contenidos 5to año\Laboratorio de programación\Programacion en Capas, base de datos - Agenda\Agenda\Agenda.Entidades\obj\Debug\net8.0\refint\Agenda.Entidades.dll
+C:\Users\agust\OneDrive\Documentos\Contenidos 5to año\Laboratorio de programación\Programacion en Capas, base de datos - Agenda\Agenda\Agenda.Entidades\obj\Debug\net8.0\Agenda.Entidades.pdb
+C:\Users\agust\OneDrive\Documentos\Contenidos 5to año\Laboratorio de programación\Programacion en Capas, base de datos - Agenda\Agenda\Agenda.Entidades\obj\Debug\net8.0\ref\Agenda.Entidades.dll
